@@ -5,7 +5,7 @@ module.exports.config = {
   version: "2.0.2",
   hasPermssion: 0,
   credits: "Raj",
-  description: "Naughty AI boyfriend affu",
+  description: "Naughty AI boyfriend taha",
   commandCategory: "ai",
   usages: "taha",
   cooldowns: 2
