@@ -1,68 +1,22 @@
-# Priyansh Bot v2
+## <h3 align="center">
 
-Welcome to **Priyansh Bot v2**! This is a powerful and customizable bot built for automating various tasks on Facebook Messenger.
+  <p align="center"><img src="https://img.shields.io/badge/WELCOME%20TO -TAHA PROJECT BOT-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">  
 
-## Table of Contents
+</h3>
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [FCA Options](#fca-options)
-- [Contributing](#contributing)
-- [License](#license)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&font-weight=bold&size=20&color=FFFF00&background=FF0000&center=true&vCenter=true&width=400&height=60&lines=HELLO+FRIENDS+I'M+MR+TAHA+BABU+😈+🤞;TAHA-ROJECT+BOT;TAHA+FCA+BOT;THANKYOU+FOR+USING+TAHA+PROJECT&border=20px+solid+000000&speed=100)](https://git.io/typing-svg)
 
-## Features
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100085636015827&mibextid=kFxxJD)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](😃)
 
-- Supports Facebook chat automation.
-- Customizable commands and event handling.
-- Supports two different FCA (Facebook Chat API) packages.
-- Highly scalable and efficient for multiple users.
+![Image](https://i.imgur.com/1tUVG85.jpeg)
 
-## Installation
 
-To install the bot, follow these steps:
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/Priyansh-11/Priyansh-bot-v2.git
-    ```
-
-2. **Navigate to the project directory**:
-    ```bash
-    cd Priyansh-bot-v2
-    ```
-
-3. **Install the dependencies**:
-    ```bash
-    npm install
-    ```
-
-4. **Start the bot**:
-    ```bash
-    npm start
-    ```
-
-## FCA Options
-
-This project supports two FCA (Facebook Chat API) options:
-
-1. **fca-priyansh**
-2. **priyanshu-fca** (Recommended)
-
-You can choose to use either of these options, but it's recommended to use **priyanshu-fca** for the best performance and stability.
-
-## Usage
-
-Once the bot is installed and running, you can:
-
-- Customize commands and events in the respective directories.
-- Modify configurations as per your requirements.
-- Ensure you have the correct Facebook credentials for login.
-
-## Contributing
-
-Contributions are welcome! If you'd like to improve the bot, feel free to submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## NPM INSTALL 
+```bash
+npm install
+```
+## NPM START
+```bash
+npm start
+``
